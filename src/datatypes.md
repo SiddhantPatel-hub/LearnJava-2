@@ -778,6 +778,6 @@ System.out.println(str.length());
 
 ---
 
-# One-Line Summary
+# One-Line Summary_
 
 > **Variables store data, primitive types store actual values, reference types store object references, type conversion changes data types, and arrays store multiple values of the same type in a fixed-size collection.**
