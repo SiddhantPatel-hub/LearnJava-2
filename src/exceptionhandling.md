@@ -608,7 +608,7 @@ Throwable
 - Uses `AutoCloseable`
 
 ---
-
+                      
 # One-Line Summary
 
 > **Exception handling in Java allows programs to detect, handle, and recover from runtime errors using `try`, `catch`, `finally`, `throw`, `throws`, and try-with-resources, making applications more robust and reliable.**
